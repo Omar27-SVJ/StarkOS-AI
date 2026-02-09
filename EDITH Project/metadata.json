@@ -1,0 +1,8 @@
+{
+  "name": "EDITH",
+  "description": "A sophisticated digital reflection that learns your communication style, values, and decision-making patterns to act as your ultimate personal assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
